@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="110mm"
+   height="110mm"
+   viewBox="0 0 110 110"
+   version="1.1"
+   id="svg2204"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="signal-sgn.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2206"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.8973437"
+     inkscape:cx="279.3379"
+     inkscape:cy="216.88216"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2201" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.959839"
+       id="path1353-4-5-5-1-7-4"
+       cx="52.443729"
+       cy="57.709564"
+       r="1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-sgn.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1027-6-5-1-5-15-7-5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,6.84362,-54.133153)"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-sgn.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion1023-6-9-7-1-2-4-7"><rect
+           id="rect1021-2-9-4-3-2-1-3"
+           width="79.846931"
+           height="62.55191"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara1025-1-57-2-9-2-3-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">1</flowPara></flowRoot>
+    <path
+       inkscape:connector-curvature="0"
+       id="path2895"
+       d="M 52.44374,12.754419 V 102.66469"
+       style="fill:none;stroke:#000000;stroke-width:0.300001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-sgn.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path2897"
+       d="m 52.44374,12.447839 h -1.31852 c 0,0 1.0788,-0.67126 1.31852,-5.13026 0.23972,4.459 1.31852,5.13026 1.31852,5.13026 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-sgn.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path2899"
+       d="m 97.39888,57.709549 v -1.31852 c 0,0 0.67126,1.0788 5.13025,1.31852 -4.45899,0.23972 -5.13025,1.31852 -5.13025,1.31852 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-sgn.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2901"
+       d="M 97.39888,57.709549 H 7.4886"
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-sgn.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       d="M 93.72735,34.233159 H 52.44372 V 81.18594 H 14.58885"
+       id="path2911"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-sgn.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot22912"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,15.97175,-8.227941)"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-sgn.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion22908"><rect
+           id="rect22906"
+           width="79.846931"
+           height="62.55191"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara22910"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">-1</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot23433"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,7.02275,-26.336013)"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-sgn.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion23429"><rect
+           id="rect23427"
+           width="79.846931"
+           height="62.55191"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara23431"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">0</flowPara></flowRoot>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.84725px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="44.575802"
+       y="10.853074"
+       id="text1462"><tspan
+         sodipodi:role="line"
+         id="tspan1460"
+         style="stroke-width:0.264583"
+         x="44.575802"
+         y="10.853074">$x$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.84725px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="94.157524"
+       y="53.992516"
+       id="text1462-8"><tspan
+         sodipodi:role="line"
+         id="tspan1460-4"
+         style="stroke-width:0.264583"
+         x="94.157524"
+         y="53.992516">$t$</tspan></text>
+  </g>
+</svg>

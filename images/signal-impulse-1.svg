@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="110mm"
+   height="70mm"
+   viewBox="0 0 110 70"
+   version="1.1"
+   id="svg2541"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="signal-impulse-1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2543"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.3416246"
+     inkscape:cx="96.89745"
+     inkscape:cy="130.06619"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2538" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path2972-8"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 54.443755,57.139729 c -0.30821,2.49581 10.07597,1.34623 10.07597,1.34623 0,0 2.10382,-0.19697 2.7279,1.72626 m 12.80388,-3.07249 c 0.3082,2.49581 -10.076,1.34623 -10.076,1.34623 0,0 -2.10383,-0.19697 -2.72788,1.72626"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-impulse.png" />
+    <path
+       id="path2972-8-3"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 52.185145,35.087779 c -2.49581,-0.22347 -1.34623,7.30562 -1.34623,7.30562 0,0 0.19697,1.52539 -1.72627,1.97788 m 3.0725,9.2835 c -2.49581,0.22347 -1.34623,-7.30564 -1.34623,-7.30564 0,0 0.19697,-1.52539 -1.72627,-1.97786"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-impulse.png" />
+    <circle
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.959839"
+       id="path1353-4-5-5-1-7-4-9"
+       cx="67.247627"
+       cy="55.34341"
+       r="1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-impulse.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1157-5-6"
+       d="m 31.277065,10.388319 v 54.23575"
+       style="fill:none;stroke:#000000;stroke-width:0.300001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-impulse.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path1159-8-4"
+       d="m 31.277065,10.081739 h -1.31852 c 0,0 1.0788,-0.6712599 1.31852,-5.1302599 0.23972,4.459 1.31852,5.1302599 1.31852,5.1302599 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-impulse.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path1163-1-2"
+       d="m 97.398885,55.343449 v -1.31852 c 0,0 0.67126,1.0788 5.130235,1.31852 -4.458985,0.23972 -5.130235,1.31852 -5.130235,1.31852 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-impulse.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1181-1-6"
+       d="M 97.398885,55.343449 H 7.488605"
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-impulse.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       d="m 67.247585,55.343449 v -25.3492"
+       id="path7658"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-impulse.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="font-variation-settings:normal;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       d="m 65.383805,29.994249 h 3.72757 l -1.86377,-6.15674 z"
+       id="path8011"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-impulse.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 31.277065,23.837499 h 35.12985"
+       id="path21436"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-impulse.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="fill:#000000;fill-opacity:0.15;stroke:none;stroke-width:0.500001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect21540"
+       width="14.827669"
+       height="31.505894"
+       x="59.833775"
+       y="23.837521"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-impulse.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="fill:#000000;fill-opacity:0.15;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect21807"
+       width="27.5497"
+       height="21.777313"
+       x="53.472721"
+       y="33.566097"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-impulse.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <rect
+       style="fill:#000000;fill-opacity:0.2;stroke:none;stroke-width:0.500001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect22046"
+       width="7.7182999"
+       height="50.698383"
+       x="63.388432"
+       y="4.6450782"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-impulse.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.95939px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="22.513288"
+       y="8.4909515"
+       id="text1477"><tspan
+         sodipodi:role="line"
+         id="tspan1475"
+         style="stroke-width:0.264583"
+         x="22.513288"
+         y="8.4909515">$x$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.95939px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="95.349945"
+       y="51.365528"
+       id="text1477-8"><tspan
+         sodipodi:role="line"
+         id="tspan1475-9"
+         style="stroke-width:0.264583"
+         x="95.349945"
+         y="51.365528">$t$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.95939px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="68.230751"
+       y="52.74601"
+       id="text1477-8-7"><tspan
+         sodipodi:role="line"
+         id="tspan1475-9-1"
+         style="stroke-width:0.264583"
+         x="68.230751"
+         y="52.74601">$t_0$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.95939px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="22.513288"
+       y="24.365952"
+       id="text2231"><tspan
+         sodipodi:role="line"
+         id="tspan2229"
+         style="stroke-width:0.264583"
+         x="22.513288"
+         y="24.365952"
+         dy="0 0 0 0 0 0 0 0 -0.19721116">$\lambda$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.95939px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="35.134804"
+       y="45.960075"
+       id="text2813"><tspan
+         sodipodi:role="line"
+         id="tspan2811"
+         style="stroke-width:0.264583"
+         x="35.134804"
+         y="45.960075"
+         dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.098605581 0 0 0 0 0.098605581 0.19721115">$\frac{\lambda}{\tau}$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.95939px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="64.483742"
+       y="65.400063"
+       id="text3128"><tspan
+         sodipodi:role="line"
+         id="tspan3126"
+         style="stroke-width:0.264583"
+         x="64.483742"
+         y="65.400063"
+         dy="0 0 0 0 0 -0.098605581">$\tau$</tspan></text>
+  </g>
+</svg>

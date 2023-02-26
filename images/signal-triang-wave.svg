@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="150mm"
+   height="70mm"
+   viewBox="0 0 150 70"
+   version="1.1"
+   id="svg6017"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="signal-triang-wave.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6019"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.3416246"
+     inkscape:cx="306.34501"
+     inkscape:cy="212.05634"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs6014" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 45.95506,25.971367 h 7.1739 v 11.73821"
+       id="path6401"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-triang-wave.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       sodipodi:nodetypes="ccc" />
+    <path
+       id="path2972-3-9"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.200001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 81.16242,20.863189 C 80.81059,18.36738 92.66445,19.51696 92.66445,19.51696 c 0,0 2.40159,0.196969 3.11398,-1.72626 m 14.61601,3.072489 C 110.74626,18.36738 98.89239,19.51696 98.89239,19.51696 c 0,0 -2.40158,0.196969 -3.11396,-1.72626"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-triang-wave.png" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3108-1"
+       d="M 45.95506,10.591684 V 64.827426"
+       style="fill:none;stroke:#000000;stroke-width:0.300001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-triang-wave.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path3110-0"
+       d="m 45.95506,10.285104 h -1.31852 c 0,0 1.0788,-0.67126 1.31852,-5.130261 0.23972,4.459001 1.31852,5.130261 1.31852,5.130261 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-triang-wave.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path3112-1"
+       d="m 135.6097,37.709557 v -1.31852 c 0,0 0.67126,1.0788 5.13025,1.31852 -4.45899,0.23972 -5.13025,1.318524 -5.13025,1.318524 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-triang-wave.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3114-7"
+       d="M 135.54903,37.709557 H 9.27778"
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-triang-wave.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="M 10.02411,49.447755 24.39649,25.971367 38.76887,49.447755"
+       id="path3202"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-triang-wave.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="M 38.76887,49.447755 53.14125,25.971367 67.51363,49.447755"
+       id="path3202-8"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-triang-wave.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="M 67.51363,49.447755 81.88601,25.971367 96.25839,49.447755"
+       id="path3202-3"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-triang-wave.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 96.25839,49.447755 14.37238,-23.476388 14.37238,23.476388"
+       id="path4001"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-triang-wave.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.87646px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="134.1411"
+       y="33.670162"
+       id="text2076"><tspan
+         sodipodi:role="line"
+         id="tspan2074"
+         style="stroke-width:0.264583"
+         x="134.1411"
+         y="33.670162">$t$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.87646px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="37.732349"
+       y="9.7293777"
+       id="text2076-1"><tspan
+         sodipodi:role="line"
+         id="tspan2074-9"
+         style="stroke-width:0.264583"
+         x="37.732349"
+         y="9.7293777">$x$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.87646px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="93.740318"
+       y="14.462445"
+       id="text2076-6"><tspan
+         sodipodi:role="line"
+         id="tspan2074-5"
+         style="stroke-width:0.264583"
+         x="93.740318"
+         y="14.462445">$T$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.87646px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="35.612965"
+       y="27.675592"
+       id="text2076-6-1"><tspan
+         sodipodi:role="line"
+         id="tspan2074-5-5"
+         style="stroke-width:0.264583"
+         x="35.612965"
+         y="27.675592">$A$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.87646px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="50.551075"
+       y="44.438541"
+       id="text2076-9"><tspan
+         sodipodi:role="line"
+         id="tspan2074-2"
+         style="stroke-width:0.264583"
+         x="50.551075"
+         y="44.438541">$t_0$</tspan></text>
+  </g>
+</svg>

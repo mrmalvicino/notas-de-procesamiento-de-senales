@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="120mm"
+   height="60mm"
+   viewBox="0 0 120 60"
+   version="1.1"
+   id="svg3446"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="system.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3448"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.3416246"
+     inkscape:cx="321.99768"
+     inkscape:cy="115.15889"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs3443" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1027-6-5-1-5-15-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-15.59488,-58.273179)"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\system.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion1023-6-9-7-1-2-0"><rect
+           id="rect1021-2-9-4-3-2-6"
+           width="79.846931"
+           height="62.55191"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara1025-1-57-2-9-2-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">in</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1027-6-5-1-5-15-1-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,46.28871,-58.548079)"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\system.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion1023-6-9-7-1-2-0-2"><rect
+           id="rect1021-2-9-4-3-2-6-1"
+           width="79.846931"
+           height="62.55191"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara1025-1-57-2-9-2-8-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">out</flowPara></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1027-6-5-1-5-15-1-1-8"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.6482"
+       transform="matrix(0.16052887,0,0,0.16052887,25.41574,-14.037068)"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\system.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion1023-6-9-7-1-2-0-2-3"
+         style="stroke-width:1.6482"><rect
+           id="rect1021-2-9-4-3-2-6-1-7"
+           width="150.20407"
+           height="85.886436"
+           x="150.68999"
+           y="314.73935"
+           style="stroke-width:1.6482" /></flowRegion><flowPara
+         id="flowPara1025-1-57-2-9-2-8-3-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';stroke-width:1.6482">(LTI sys)</flowPara></flowRoot>
+    <rect
+       style="fill:#000000;fill-opacity:0.2;stroke:#000015;stroke-width:0.499999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1407"
+       width="26.855207"
+       height="26.855207"
+       x="46.572372"
+       y="16.572393"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\system.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="font-variation-settings:normal;vector-effect:none;fill:#000000;fill-opacity:0.2;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       d="m 14.42551,36.713776 v -13.4276 h 13.4276 v -6.71381 l 13.42761,13.427631 -13.4276,13.4276 v -6.713821 z"
+       id="path1602"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\system.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="font-variation-settings:normal;vector-effect:none;fill:#000000;fill-opacity:0.2;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       d="m 78.71929,36.713797 v -13.4276 h 13.4276 v -6.71381 l 13.42761,13.427631 -13.4276,13.4276 v -6.713821 z"
+       id="path2002"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\system.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.04215px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="19.746065"
+       y="10.329536"
+       id="text1404"><tspan
+         sodipodi:role="line"
+         id="tspan1402"
+         style="stroke-width:0.264583"
+         x="19.746065"
+         y="10.329536">$\f[x]{t}$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.04215px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="85.185135"
+       y="10.329536"
+       id="text2090"><tspan
+         sodipodi:role="line"
+         id="tspan2088"
+         style="stroke-width:0.264583"
+         x="85.185135"
+         y="10.329536">$\f[y]{t}$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.04215px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="19.746065"
+       y="52.662872"
+       id="text2276"><tspan
+         sodipodi:role="line"
+         id="tspan2274"
+         style="stroke-width:0.264583"
+         x="19.746065"
+         y="52.662872"
+         dy="0 0 0 0 0 0 0 0 0 0 0.19721116">$\f[\delta]{t}$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.04215px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="85.185135"
+       y="52.662872"
+       id="text3056"><tspan
+         sodipodi:role="line"
+         id="tspan3054"
+         style="stroke-width:0.264583"
+         x="85.185135"
+         y="52.662872">$\f[h]{t}$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.04215px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="55.637501"
+       y="30.445074"
+       id="text4100"><tspan
+         sodipodi:role="line"
+         id="tspan4098"
+         style="stroke-width:0.264583"
+         x="55.637501"
+         y="30.445074">$T$</tspan></text>
+  </g>
+</svg>

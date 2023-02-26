@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="120mm"
+   height="90mm"
+   viewBox="0 0 120 90"
+   version="1.1"
+   id="svg2982"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="signal-impulse-2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2984"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.8973437"
+     inkscape:cx="182.36021"
+     inkscape:cy="161.01458"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2979">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4496"
+       id="linearGradient3337"
+       x1="372.49066"
+       y1="391.21747"
+       x2="360.36316"
+       y2="391.21747"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-313.32713,-343.79175)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4496">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4492" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4494" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4496"
+       id="linearGradient6339"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1,0,0,1,428.21453,-343.79175)"
+       x1="372.49066"
+       y1="391.21747"
+       x2="360.36316"
+       y2="391.21747" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1027-6-5-1-5-15-7-57-2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,41.335175,-46.314624)"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-impulse-2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion1023-6-9-7-1-2-4-1-5"><rect
+           id="rect1021-2-9-4-3-2-1-38-9"
+           width="79.846931"
+           height="62.55191"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara1025-1-57-2-9-2-3-2-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">1</flowPara></flowRoot>
+    <path
+       inkscape:connector-curvature="0"
+       id="path1157-5-8"
+       d="m 57.443765,13.419356 v 67.61776"
+       style="fill:none;stroke:#000000;stroke-width:0.300001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-impulse-2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path1159-8-9"
+       d="m 57.443745,13.419346 h -1.31852 c 0,0 1.0788,-0.67126 1.31852,-5.13026 0.23972,4.459 1.31852,5.13026 1.31852,5.13026 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-impulse-2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path1163-1-3"
+       d="m 102.39888,74.423766 v -1.31852 c 0,0 0.67126,1.0788 5.13025,1.31852 -4.45899,0.23972 -5.13025,1.31852 -5.13025,1.31852 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-impulse-2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       d="m 98.727355,46.612116 h -32.27654 l -18.01418,18.58159 h -28.84778"
+       id="path2635-7"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-impulse-2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       sodipodi:nodetypes="cccc" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot23323-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:'Math Symbols';-inkscape-font-specification:'Math Symbols';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-9.143925,-18.708304)"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-impulse-2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion23319-4"><rect
+           id="rect23317-4"
+           width="79.846931"
+           height="62.55191"
+           x="150.68999"
+           y="314.73935" /></flowRegion><flowPara
+         id="flowPara23321-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'">0</flowPara></flowRoot>
+    <path
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 12.488595,74.423756 h 35.94804 l 9.0071,-15.60073 9.00709,15.60074 h 35.948055"
+       id="path1639"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-impulse-2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 12.488595,37.382066 h 35.94804 l 9.0071,-15.60073 9.00709,15.60074 h 35.948055"
+       id="path1996"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-impulse-2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.2, 1.2;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="M 48.436635,74.423756 V 37.382066"
+       id="path2031"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-impulse-2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.2, 1.2;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="M 66.450815,74.423756 V 37.382066"
+       id="path2033"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-impulse-2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="font-variation-settings:normal;opacity:0.6;vector-effect:none;fill:url(#linearGradient3337);fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       d="m 57.443705,21.781396 v 37.04169 l -9.00705,15.60065 v -37.04172 z"
+       id="path3263"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-impulse-2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="font-variation-settings:normal;opacity:0.6;vector-effect:none;fill:url(#linearGradient6339);fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       d="m 57.443705,21.781396 v 37.04169 l 9.00705,15.60065 v -37.04172 z"
+       id="path6337"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-impulse-2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.200001;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:0.800004, 0.800004;stroke-dashoffset:0"
+       d="m 66.450745,32.090396 c -1.1544,0.52421 -2.529,0.94843 -4.0554,1.24161 -1.5264,0.29316 -3.20458,0.45529 -4.96615,0.45529 -1.76156,0 -3.43973,-0.16213 -4.96614,-0.45529 -1.52639,-0.29318 -2.90099,-0.7174 -4.0554,-1.24161 l 9.03611,-15.651 z"
+       id="path7544"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-impulse-2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="font-variation-settings:normal;opacity:0.25;fill:none;fill-opacity:1;stroke:#000015;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 66.450815,46.612106 -9.0071,2.41345 -9.00708,16.16813"
+       id="path11278"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-impulse-2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.32793px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="48.98737"
+       y="12.9353"
+       id="text1749"><tspan
+         sodipodi:role="line"
+         id="tspan1747"
+         style="stroke-width:0.264583"
+         x="48.98737"
+         y="12.9353">$x$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.32793px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="99.884468"
+       y="70.110489"
+       id="text1749-2"><tspan
+         sodipodi:role="line"
+         id="tspan1747-0"
+         style="stroke-width:0.264583"
+         x="99.884468"
+         y="70.110489">$t$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.32793px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="64.419968"
+       y="79.872444"
+       id="text1749-2-4"><tspan
+         sodipodi:role="line"
+         id="tspan1747-0-5"
+         style="stroke-width:0.264583"
+         x="64.419968"
+         y="79.872444"
+         dy="0 0 0 0 0.069724672 0 0.069724672">$0^{+}$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.32793px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="45.13586"
+       y="79.872444"
+       id="text5273"><tspan
+         sodipodi:role="line"
+         id="tspan5271"
+         style="stroke-width:0.264583"
+         x="45.13586"
+         y="79.872444"
+         dy="0 0 0 0 0 0 0.069724672">$0^{-}$</tspan></text>
+  </g>
+</svg>

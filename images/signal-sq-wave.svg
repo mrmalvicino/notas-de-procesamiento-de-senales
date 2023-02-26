@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="150mm"
+   height="70mm"
+   viewBox="0 0 150 70"
+   version="1.1"
+   id="svg5601"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="signal-sq-wave.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview5603"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.8973437"
+     inkscape:cx="260.89106"
+     inkscape:cy="161.54164"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs5598" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path2972-4"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 13.84479,27.501496 c -0.27929,-2.495809 9.13104,-1.346229 9.13104,-1.346229 0,0 1.90654,0.196969 2.47209,-1.72626 m 11.60312,3.072489 c 0.27929,-2.495809 -9.13107,-1.346229 -9.13107,-1.346229 0,0 -1.90653,0.196969 -2.47205,-1.72626"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-sq-wave.png" />
+    <path
+       id="path2972-3"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.200001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 60.62407,27.501496 c -0.56338,-2.495808 18.41826,-1.346228 18.41826,-1.346228 0,0 3.84568,0.196969 4.98644,-1.72626 m 23.4047,3.072488 c 0.56337,-2.495808 -18.41831,-1.346228 -18.41831,-1.346228 0,0 -3.84566,0.196969 -4.98639,-1.72626"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-sq-wave.png" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3108"
+       d="M 48.93703,10.59168 V 64.82743"
+       style="fill:none;stroke:#000000;stroke-width:0.300001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-sq-wave.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path3110"
+       d="m 48.93703,10.2851 h -1.31852 c 0,0 1.0788,-0.67126 1.31852,-5.130261 0.23972,4.459001 1.31852,5.130261 1.31852,5.130261 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-sq-wave.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path3112"
+       d="M 135.6097,55.546811 V 54.22829 c 0,0 0.67126,1.078801 5.13025,1.318521 -4.45899,0.23972 -5.13025,1.31852 -5.13025,1.31852 z"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-sq-wave.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3114"
+       d="M 135.54903,55.546811 H 9.27778"
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-sq-wave.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       d="m 13.72243,55.546807 v -23.47639 h 23.4764 v 23.47639 H 60.6752 v -23.47639 h 23.47638 v 23.47639 h 23.47637 v -23.47639 h 23.4764 V 55.54681"
+       id="path3602"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-sq-wave.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="font-variation-settings:normal;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2, 2;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="M 48.93702,32.070417 H 72.41339 V 55.546811"
+       id="path6403"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-sq-wave.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       d="m 119.36614,54.29773 v 2.498161"
+       id="path2228"
+       inkscape:export-filename="C:\Users\Admin\Desktop\Apunte Señales\PNG\signal-sq-wave.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.61507px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="40.879982"
+       y="7.6343527"
+       id="text1473"><tspan
+         sodipodi:role="line"
+         id="tspan1471"
+         style="stroke-width:0.264583"
+         x="40.879982"
+         y="7.6343527">$x$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.61507px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="135.11404"
+       y="51.263393"
+       id="text1473-8"><tspan
+         sodipodi:role="line"
+         id="tspan1471-9"
+         style="stroke-width:0.264583"
+         x="135.11404"
+         y="51.263393">$t$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.61507px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="70.480789"
+       y="61.321163"
+       id="text1473-8-1"><tspan
+         sodipodi:role="line"
+         id="tspan1471-9-6"
+         style="stroke-width:0.264583"
+         x="70.480789"
+         y="61.321163">$t_0$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.61507px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="81.731735"
+       y="20.892876"
+       id="text1473-8-6"><tspan
+         sodipodi:role="line"
+         id="tspan1471-9-9"
+         style="stroke-width:0.264583"
+         x="81.731735"
+         y="20.892876">$T$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.61507px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="41.974049"
+       y="32.922756"
+       id="text1473-8-6-8"><tspan
+         sodipodi:role="line"
+         id="tspan1471-9-9-5"
+         style="stroke-width:0.264583"
+         x="41.974049"
+         y="32.922756">$A$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.61507px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="23.280714"
+       y="21.48451"
+       id="text1473-8-6-8-0"><tspan
+         sodipodi:role="line"
+         id="tspan1471-9-9-5-8"
+         style="stroke-width:0.264583"
+         x="23.280714"
+         y="21.48451"
+         dy="0 0 0 0 0 0.19721116">$\tau$</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.61507px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="115.87459"
+       y="61.321163"
+       id="text3837"><tspan
+         sodipodi:role="line"
+         id="tspan3835"
+         style="stroke-width:0.264583"
+         x="115.87459"
+         y="61.321163">$t_0T$</tspan></text>
+  </g>
+</svg>
