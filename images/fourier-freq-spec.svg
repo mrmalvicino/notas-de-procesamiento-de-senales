@@ -8,7 +8,7 @@
    version="1.1"
    id="svg4391"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   sodipodi:docname="fourier-freq-spec-1.svg"
+   sodipodi:docname="fourier-freq-spec.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,8 +24,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.67081229"
-     inkscape:cx="338.39571"
-     inkscape:cy="161.7442"
+     inkscape:cx="539.64426"
+     inkscape:cy="309.32647"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -457,7 +457,7 @@
          style="stroke-width:0.264583"
          x="97.821373"
          y="55.066101"
-         dy="0 0 0 0 0 0 0 0 0 0 0 0.39442232 0 0 0 0 0 0 0 0 0 0 0 0.66688585">$\omega \, [\si{hertz}]$</tspan></text>
+         dy="0 0 0 0 0 0 0 0 0 0 0 0.39442232 0 0 0 0 0 0.19721116 0 0 0 0 0 0 0.66688585">$\omega \, [\si{\hertz}]$</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.8739px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -469,7 +469,7 @@
          style="stroke-width:0.264583"
          x="162.23302"
          y="18.285723"
-         dy="0 0 0 0 0 0 0 0 0 0.19721116 0 0 0.5916335 0 0 0 0 0 0 0 0 0 0 0 0 0.66688585">$\varphi \, [\si{radian}]$</tspan></text>
+         dy="0 0 0 0 0 0 0 0 0 0.19721116 0 0 0.5916335 0 0 0 0 0 0.19721116 0 0 0 0 0 0 0 0.66688585">$\varphi \, [\si{\radian}]$</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.8739px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -481,7 +481,7 @@
          style="stroke-width:0.264583"
          x="219.52979"
          y="55.066101"
-         dy="0 0 0 0 0 0 0 0 0 0 0 0.39442232 0 0 0 0 0 0 0 0 0 0 0 0.66688585">$\omega \, [\si{hertz}]$</tspan></text>
+         dy="0 0 0 0 0 0 0 0 0 0 0 0.39442232 0 0 0 0 0 0.19721116 0 0 0 0 0 0 0.66688585">$\omega \, [\si{\hertz}]$</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.8739px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -509,25 +509,25 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.8739px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="162.30844"
+       x="158.36421"
        y="73.470818"
        id="text12585"><tspan
          sodipodi:role="line"
          id="tspan12583"
          style="stroke-width:0.264583"
-         x="162.30844"
+         x="158.36421"
          y="73.470818"
          dy="0 0 0 0 0 0 0 0 0.39442232 0 0 0 0 0 0 0.864097">$-\frac{\pi}{2}$</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.8739px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="162.30844"
+       x="158.36421"
        y="87.176483"
        id="text12589"><tspan
          sodipodi:role="line"
          id="tspan12587"
          style="stroke-width:0.264583"
-         x="162.30844"
+         x="158.36421"
          y="87.176483"
          dy="0 0 0.39442232 0 0 0.864097">$-\pi$</tspan></text>
   </g>

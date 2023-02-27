@@ -21,6 +21,7 @@
 \renewcommand{\headrulewidth}{0pt}
 
 \frontmatter
+% \includepdf{cover}
 
 \begin{center}
     \begin{Huge}
@@ -28,7 +29,7 @@
     \end{Huge}
 
     \vspace{1cm}
-    \textbf{Edición 20230220}
+    \textbf{Primera edición (v20230226)}
     \vspace{2cm}
 
     \begin{Large}
@@ -40,9 +41,9 @@
 \noindent
 \textbf{Prefacio}
 
-Resumen de contenidos de la materia Señales y Sistemas correspondiente a la carrera Ingeniería de Sonido en la Universidad Nacional de Tres de Febrero. Cursada el segundo cuatrimestre de 2022 a cargo de los profesores Trina Adrián y Martín B. Meza junto con el docente adscripto Eugenio Massolo.
+Resumen de contenidos de la materia señales y sistemas para ingeniería de sonido de la Universidad Nacional de Tres de Febrero.
 
-La versión digital más reciente de este texto puede ser descargada gratuitamente de \url{https://www.overleaf.com/read/sttrqrqbqjyr}.
+La versión digital más reciente de este texto puede ser descargada gratuitamente de \url{https://github.com/mrmalvicino/notas-de-procesamiento-de-senales}.
 
 \renewcommand{\spanishappendixname}{Anexo}
 \tableofcontents
@@ -76,9 +77,10 @@ Se suele denotar como
 
 En $t=0$ puede estar definida como 0, 1 o 1/2 según la aplicación.
 
-%\begin{center}
-%    \includegraphics[width=0.4\linewidth]{signal-unit-step.png}
-%\end{center}
+\begin{center}
+    \def\svgwidth{0.6\linewidth}
+    \input{./images/signal-unit-step.pdf_tex}
+\end{center}
 
 \concept{Signo}
 
@@ -96,9 +98,10 @@ Se suele denotar como
 
 En $t=0$ puede estar definida como -1, 1 o 0 según la aplicación.
 
-%\begin{center}
-%    \includegraphics[width=0.4\linewidth]{signal-sgn.png}
-%\end{center}
+\begin{center}
+    \def\svgwidth{0.6\linewidth}
+    \input{./images/signal-sgn.pdf_tex}
+\end{center}
 
 El escalón unitario y la función signo son \emph{funciones escalonadas}. Una función escalón es una función definida por una cantidad finita de tramos finitos que toman valores constantes. Ambas se relacionan de la siguiente forma.
 
@@ -114,9 +117,10 @@ El escalón unitario y la función signo son \emph{funciones escalonadas}. Una f
 
 Se suele denotar como $\fx[r]{t}$ y representa una señal que aumenta a tasa constante.
 
-%\begin{center}
-%    \includegraphics[width=0.4\linewidth]{signal-unit-ramp.png}
-%\end{center}
+\begin{center}
+    \def\svgwidth{0.6\linewidth}
+    \input{./images/signal-unit-ramp.pdf_tex}
+\end{center}
 
 Aquellas señales que se repiten cada cierto intervalo de tiempo $T$ son llamadas \emph{periódicas}. Estas son combinaciones lineales de las dadas anteriormente y a continuación se dan algunos ejemplos.
 
@@ -127,9 +131,10 @@ Se suele denotar como
     \fx[x]{t} = A \, \fx[\Pi]{\frac{t-t_0}{\tau}}
 \end{equation*}
 
-%\begin{center}
-%    \includegraphics[width=0.6\linewidth]{signal-sq-wave.png}
-%\end{center}
+\begin{center}
+    \def\svgwidth{0.8\linewidth}
+    \input{./images/signal-sq-wave.pdf_tex}
+\end{center}
 
 El valor pico es representado por $A$ ya que eventualmente vale 1 (como en el escalón unitario) pero puede estar escalada. También pueden darse corrimientos en tiempo según $t_0$ o desplazamientos del valor medio que la señal tome, en el eje vertical.
 
@@ -147,21 +152,24 @@ Se suele denotar como
     \fx[x]{t} = A - \norm{t-t_0}
 \end{equation*}
 
-%\begin{center}
-%    \includegraphics[width=0.6\linewidth]{signal-triang-wave.png}
-%\end{center}
+\begin{center}
+    \def\svgwidth{0.8\linewidth}
+    \input{./images/signal-triang-wave.pdf_tex}
+\end{center}
 
 \concept{Diente de sierra}
 
-%\begin{center}
-%    \includegraphics[width=0.6\linewidth]{signal-sawtooth.png}
-%\end{center}
+\begin{center}
+    \def\svgwidth{0.8\linewidth}
+    \input{./images/signal-sawtooth.pdf_tex}
+\end{center}
 
 Observar, que el escalón unitario puede ser interpretado como la derivada de la rampa unitaria. Lo cual pareciera no tener sentido, porque la rampa pasa de tener una pendiente nula a una pendiente unitaria de manera no suave. Y efectivamente, en el sentido tradicional de la definición de derivada sería una interpretación errónea. Por este motivo el valor que el escalón toma en $t=0$ es arbitrario. Pero de igual manera es posible definir una función que sea la derivada del escalón unitario. En cero la función pasa de valer 0 a valer 1 abruptamente y no es posible definir la derivada en el sentido tradicional. Pero es posible dar una noción de derivada uniendo los dos tramos del escalón con una rampa que va ``desde la izquierda del cero hasta la derecha del cero'' para obtener una función continua.
 
-%\begin{center}
-%    \includegraphics[width=0.4\linewidth]{signal-impulse-2.png}
-%\end{center}
+\begin{center}
+    \def\svgwidth{0.6\linewidth}
+    \input{./images/signal-impulse-2.pdf_tex}
+\end{center}
 
 Personalmente, me gusta pensar que se trata de una función que tiene 2 dimensiones temporales: una en el sentido de $t$ y otra hacia ``adentro''. De manera que es posible que la función tenga un cambio ``suave'' y discontinuo simultáneamente para un único instante $t_0$, ya que el reloj no estaría frenándose sino que estaría usando otras manecillas.
 
@@ -199,9 +207,10 @@ Se suele denotar como
 
 Y se la representa gráficamente con una flecha haciendo referencia a que en el punto $t_0$ la función toma, por un instante, un valor infinito. La \emph{altura} de la flecha indica el área ($\lambda$). Si la función tiene área unitaria, se la llama impulso unitario.
 
-%\begin{center}
-%    \includegraphics[width=0.4\linewidth]{signal-impulse.png}
-%\end{center}
+\begin{center}
+    \def\svgwidth{0.6\linewidth}
+    \input{./images/signal-impulse-1.pdf_tex}
+\end{center}
 
 Los cuadrados grises representan el área de un pulso centrado en $t_0$, inicialmente de ancho $\tau$ y amplitud $\lambda / \tau$. El área es el producto de la base por la altura, dada en este caso por $\lambda$. Al tomar el límite $\tau \to 0$ vemos que el pulso tiende a ser un impulso, ya que se hace de ancho nulo y altura infinita manteniendo su área constante.
 
@@ -533,9 +542,10 @@ Esta operación implica que la salida de un sistema LTI es la \emph{convolución
 
 A continuación se tiene un esquema que representa gráficamente esta interpretación.
 
-%\begin{center}
-%    \includegraphics[width=0.4\linewidth]{system.png}
-%\end{center}
+\begin{center}
+    \def\svgwidth{0.8\linewidth}
+    \input{./images/system.pdf_tex}
+\end{center}
 
 
 \chapter{Transformada de Fourier}
@@ -629,9 +639,10 @@ Obteniendo las siguientes expresiones para los coeficientes trigonométricos de 
 
 Esto no es casualidad y viene dado por una propiedad que sale de sumar complejos conjugados. Podemos comprobarla gráficamente. Dado que $a_\kth \in \setR$ y $b_\kth \in \setI$ son ortogonales entre sí, los coeficientes $c_{\pm\kth} \in \setC$ no forman cualquier ángulo, sino que $c_\kth$ es el conjugado de $c_{-\kth}$. A continuación se muestran con flechas en el plano complejo:
 
-%\begin{center}
-%    \includegraphics[width=0.5\linewidth]{abc.png}
-%\end{center}
+\begin{center}
+    \def\svgwidth{0.6\linewidth}
+    \input{./images/fourier-abc.pdf_tex}
+\end{center}
 
 A partir del gráfico anterior, se define el complejo $C_\kth = a_\kth - \iu \, b_\kth$ representado por un punto en el vértice del triángulo gris.
 
@@ -823,19 +834,15 @@ Así, es posible obtener cualquier coeficiente de Fourier:
     \begin{equation*}
         \fx[x]{t} = 5 \fx[\sin]{2 \, \pi \, \SI{2}{\hertz} \, t + \pi} + 7 \fx[\sin]{2 \, \pi \, \SI{3}{\hertz} \, t - \pi/2}
     \end{equation*}
-    %\begin{center}
-    %    \includegraphics[width=0.5\linewidth]{spec-vs-wave-1.png}
-    %\end{center}
-    %\begin{center}
-    %    \includegraphics[width=0.5\linewidth]{spec-vs-wave-2.png}
-    %\end{center}
-    %\begin{center}
-    %    \includegraphics[width=0.5\linewidth]{spec-vs-wave-3.png}
-    %\end{center}
-    
+    \begin{center}
+        \def\svgwidth{0.6\linewidth}
+        \input{./images/fourier-waveform.pdf_tex}
+    \end{center}
+    \begin{center}
+        \def\svgwidth{\linewidth}
+        \input{./images/fourier-freq-spec.pdf_tex}
+    \end{center}
 \end{mdframed}
-
-
 
 
 \end{document}

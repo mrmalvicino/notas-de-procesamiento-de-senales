@@ -68,12 +68,12 @@
     \put(0.03951494,0.16882757){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.0880257\unitlength}\raggedright -2\end{minipage}}}%
     \put(0.09448323,0.16882757){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.0880257\unitlength}\raggedright -3\end{minipage}}}%
     \put(0.17353848,0.33801102){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\norm{X}$\end{tabular}}}}%
-    \put(0.40758905,0.18722458){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\omega \, [\si{hertz}]$\end{tabular}}}}%
-    \put(0.6759709,0.34047616){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\varphi \, [\si{radian}]$\end{tabular}}}}%
-    \put(0.91470744,0.18722458){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\omega \, [\si{hertz}]$\end{tabular}}}}%
+    \put(0.40758905,0.18722458){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\omega \, [\si{\hertz}]$\end{tabular}}}}%
+    \put(0.6759709,0.34047616){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\varphi \, [\si{\radian}]$\end{tabular}}}}%
+    \put(0.91470744,0.18722458){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\omega \, [\si{\hertz}]$\end{tabular}}}}%
     \put(0.67628517,0.22078133){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\frac{\pi}{2}$\end{tabular}}}}%
     \put(0.67628517,0.2739174){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$\pi$\end{tabular}}}}%
-    \put(0.67628517,0.11053826){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-\frac{\pi}{2}$\end{tabular}}}}%
-    \put(0.67628517,0.05343132){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-\pi$\end{tabular}}}}%
+    \put(0.65985088,0.11053826){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-\frac{\pi}{2}$\end{tabular}}}}%
+    \put(0.65985088,0.05343132){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}$-\pi$\end{tabular}}}}%
   \end{picture}%
 \endgroup%

@@ -24,7 +24,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.3416246"
-     inkscape:cx="321.99768"
+     inkscape:cx="321.99767"
      inkscape:cy="115.15889"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
@@ -122,7 +122,7 @@
          id="tspan1402"
          style="stroke-width:0.264583"
          x="19.746065"
-         y="10.329536">$\f[x]{t}$</tspan></text>
+         y="10.329536">$\fx[x]{t}$</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.04215px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -133,7 +133,7 @@
          id="tspan2088"
          style="stroke-width:0.264583"
          x="85.185135"
-         y="10.329536">$\f[y]{t}$</tspan></text>
+         y="10.329536">$\fx[y]{t}$</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.04215px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -145,7 +145,7 @@
          style="stroke-width:0.264583"
          x="19.746065"
          y="52.662872"
-         dy="0 0 0 0 0 0 0 0 0 0 0.19721116">$\f[\delta]{t}$</tspan></text>
+         dy="0 0 0 0 0 0 0 0 0 0 0 0.19721116">$\fx[\delta]{t}$</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.04215px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -156,7 +156,7 @@
          id="tspan3054"
          style="stroke-width:0.264583"
          x="85.185135"
-         y="52.662872">$\f[h]{t}$</tspan></text>
+         y="52.662872">$\fx[h]{t}$</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.04215px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
