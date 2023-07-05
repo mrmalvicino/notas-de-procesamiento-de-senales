@@ -309,7 +309,7 @@ Es decir que para el caso del impulso unitario $\lambda = 1$ obteniendo la sigui
         \\
         \sub{P}{tot} \text{ converge} & \implies \sub{E}{tot} \to \infty
         \\
-        \sub{P}{tot} \to \infty & \implies \sub{P}{tot} \to \infty
+        \sub{P}{tot} \to \infty & \implies \sub{E}{tot} \to \infty
     \end{align*}
 
 \begin{mdframed}[style=MyFrame1]
@@ -450,7 +450,7 @@ Además, si $N=1$ fuese un período válido, la función tomaría el mismo valor
     \begin{defn}
     \end{defn}
     \cusTi{Función de transferencia}
-    \cusTe{Dados los espectros frecuenciales de las señales de entrada $\fx[X]{s}$ y salida $\fx[Y]{s}$ de un sistema, se define el cociente de estos como la función de transferencia del mismo.}
+    \cusTe{Dados los espectros frecuenciales de las señales de entrada $\fx[X]{s}$ y salida $\fx[Y]{s}$ de un sistema, se define el cociente de estos como la función de transferencia $H \in \setC$ dada por}
     \begin{equation*}
         \fx[H]{s} = \frac{\fx[Y]{s}}{\fx[X]{s}}
     \end{equation*}
@@ -461,7 +461,7 @@ Además, si $N=1$ fuese un período válido, la función tomaría el mismo valor
     \end{prop}
     \noTi{Un sistema lineal e invariante en el tiempo excitado por una señal $\fx[x]{t} = A_x \fx[\cos]{\omega_x \, t + \varphi_x}$ presenta una señal de salida $\fx[y]{t} = A_y \fx[\cos]{\omega_y \, t + \varphi_y}$} tal que
     \begin{equation*}
-        \fx[H]{\omega} = \frac{\fx[y]{\omega}}{\fx[x]{\omega}}
+        \fx[H]{\omega} = \frac{\fx[Y]{\omega}}{\fx[X]{\omega}}
     \end{equation*}
 \end{mdframed}
 
@@ -798,7 +798,7 @@ Poniéndose en evidencia que la única integral no nula es $\frac{1}{T_0} \int_{
 
 Multiplicando el término $e^{-\iu \, 2 \, \pi \, \kth \, t}$ se consigue anular el promedio de cualquier integral que no sea $\omega_\kth=2 \, \pi \, \kth$ en general, particularmente de $\omega=0$ cuando $\kth=0$.
 
-Así, es posible obtener cualquier coeficiente de Fourier:
+Así, aplicando distributiva al término $e^{-\iu \, 2 \, \pi \, \kth \, t}$, es posible obtener cualquier coeficiente de Fourier:
 \begin{equation*}
     \scale{0.98}{
     c_\kth = \frac{1}{T_0} \int_{T_0} \sqb{\dots c_{-1} \, e^{\iu \bb{-1} \, \omega_0 \, t} + c_0 \, e^0 + c_1 \, \, e^{\iu \bb{1} \, \omega_0 \, t} \dots} e^{-\iu \, 2 \, \pi \, \kth \, t} \dif t
