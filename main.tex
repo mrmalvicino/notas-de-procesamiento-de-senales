@@ -784,28 +784,72 @@ Para una función $\fx[x]{t}$ real, el coeficiente complejo $c_0$ resulta ser el
 \end{equation*}
 
 Si se reemplaza $\fx[x]{t}$ por su desarrollo en serie (Def. \ref{defn:FourierSerieExp}), se obtiene:
-\begin{align*}
+\begin{align}
     c_0 &= \frac{1}{T_0} \int_{T_0} \bb{\sum_{\kth=-\infty}^\infty c_\kth \, e^{\iu \, \kth \, \omega_0 \, t}} \dif t
+    \notag
     \\[1ex]
     &= \frac{1}{T_0} \int_{T_0} \sqb{\dots c_{-1} \, e^{\iu \bb{-1} \, \omega_0 \, t} + c_0 \, e^0 + c_1 \, \, e^{\iu \bb{1} \, \omega_0 \, t} \dots} \dif t
+    \label{eqn:coeficientes}
     \\[1ex]
-    &= \dots \frac{1}{T_0} \int_{T_0} c_{-1} \, e^{\iu \bb{-1} \, \omega_0 \, t} \dif t
+    &= \cdots \frac{1}{T_0} \int_{T_0} c_{-1} \, e^{- \iu \, \omega_0 \, t} \dif t
     + c_0
-    + \frac{1}{T_0} \int_{T_0} c_1 \, \, e^{\iu \bb{1} \, \omega_0 \, t} \dif t \dots
+    + \frac{1}{T_0} \int_{T_0} c_1 \, \, e^{\iu \omega_0 \, t} \dif t \dots
+    \notag
+\end{align}
+
+Poniéndose en evidencia que la única integral no nula es $\frac{1}{T_0} \int_{T_0} c_0 \, e^0 \, \dif t = c_0$ ya que las demás son integrales de funciones periódicas evaluadas en un período, como por ejemplo lo sería $\int_0^{2\pi} \fx[\sin]{t} \, \dif t = 0$.
+
+Multiplicando a la ecuación \ref{eqn:coeficientes} el término $e^{-\iu \, \kth \, \omega_0 \, t}$ se consigue anular todos los sumandos quedando solamente el $k$-ésimo. Esto se observa aplicando distributiva:
+\begin{align*}
+    c_\kth &=
+    \scale{0.95}{
+    \frac{1}{T_0} \int_{T_0} \sqb{\dots c_{-1} \, e^{-\iu \, \omega_0 \, t} + c_0 + c_1 \, \, e^{\iu \, \omega_0 \, t} \dots} e^{-\iu \, \kth \, \omega_0 \, t} \dif t
+    }
+    \\[1ex]
+    &= 
+    \scale{0.95}{
+    \frac{1}{T_0} \int_{T_0} \sqb{\dots c_{-1} \, e^{-\iu \, \omega_0 \, t \bb{1 + k}} + c_0 \, e^{-\iu \, \kth \, \omega_0 \, t} + c_1 \, \, e^{\iu \, \omega_0 \, t \bb{1 - k}} \dots} \dif t
+    }
 \end{align*}
 
-Poniéndose en evidencia que la única integral no nula es $\frac{1}{T_0} \int_{T_0} c_0 \, e^0 \, \dif t = c_0$. Las demás son integrales de funciones periódicas evaluadas en un período, como $\int_0^{2\pi} \fx[\sin]{t} \, \dif t = 0$.
+De esta forma, podemos ver conceptualmente que para cualquier $k$ dado, el respectivo término exponencial se simplifica quedando $\frac{1}{T_0} \int_{T_0} c_k \, e^0 \, \dif t = c_k$ mientras que todos los otros términos se anulan como se mencionó anteriormente.
 
-Multiplicando el término $e^{-\iu \, 2 \, \pi \, \kth \, t}$ se consigue anular el promedio de cualquier integral que no sea $\omega_\kth=2 \, \pi \, \kth$ en general, particularmente de $\omega=0$ cuando $\kth=0$.
+Formalmente, entendermos que los coeficientes de Fourier están definidos como tal por ser el producto interno entre la función que se está aproximando y un subespacio de funciones integrables. Ver aproximación de señales para espacios euclideos en Notas de matemática para ingeniería de sonido.
 
-Así, aplicando distributiva al término $e^{-\iu \, 2 \, \pi \, \kth \, t}$, es posible obtener cualquier coeficiente de Fourier:
+Si en vez de usar el coeficiente $k$-ésimo definimos una función que devuelva cada coeficiente que modela la amplitud de cada frecuencia $\omega = k \, \omega_0$ obtenemos:
+\begin{align*}
+    c_\kth &= \frac{1}{T_0} \int_{T_0} \fx[x]{t} \, e^{-\iu \, \kth \, \omega_0 \, t} \, \dif t
+    \\
+    &= \frac{1}{T_0} \int_{T_0} \fx[x]{t} \, e^{-\iu \, \omega \, t} \, \dif t = \fx[c]{\omega}
+\end{align*}
+
+Cualquier función periódica puede ser desarrollada en series de Fourier y los coeficientes estarían dados según la ecuación anterior para frecuencias múltiplos de la fundamental, conocidas como armónicos. A saber:
 \begin{equation*}
-    \scale{0.98}{
-    c_\kth = \frac{1}{T_0} \int_{T_0} \sqb{\dots c_{-1} \, e^{\iu \bb{-1} \, \omega_0 \, t} + c_0 \, e^0 + c_1 \, \, e^{\iu \bb{1} \, \omega_0 \, t} \dots} e^{-\iu \, 2 \, \pi \, \kth \, t} \dif t
-    }
+    \omega = k \, \omega_0
 \end{equation*}
 
-% Relacionar X con los coeficientes
+Pero la transformada de Fourier se define para funciones no necesariamente periódicas y, además, para un dominio continuo. Observar que $\omega$ debería poder tomar cualquier valor real, mientras que a partir de $k \, \omega_0$ solo es posible obtener frecuencias discretas.
+
+Para sortear ambas cuestiones, partimos del desarrollo en serie de Fourier de una función cuyo período es infinitamente largo, con lo cual $T_0 \to \infty$. Observar que cualquier señal acotada en tiempo cumple esta hipótesis, por más que sea no periódica.
+Así, haciendo el cambio de variable $\omega = k \, \omega_0$ y considerando $c_k = \fx[c]{\omega}$ en la ecuación \ref{defn:FourierSerieExp} se tiene
+\begin{align*}
+    \fx[x]{t} &= \sum_{\kth=-\infty}^\infty c_\kth \, e^{\iu \, \kth \, \omega_0 \, t}
+    \\[1ex]
+    &= \sum_{\kth=-\infty}^\infty \left[ \frac{1}{T_0} \int_{T_0} \fx[x]{t} \, e^{-\iu \, \omega \, t} \, \dif t \right] \, e^{\iu \, \omega \, t} \text{ con } T_0 \to \infty
+    \\[1ex]
+    &= \sum_{\kth=-\infty}^\infty \left[ \frac{\omega_0}{2 \, \pi} \int_{-\infty}^{\infty} \fx[x]{t} \, e^{-\iu \, \omega \, t} \, \dif t \right] \, e^{\iu \, \omega \, t} \text{ con } \omega_0 \to 0
+\end{align*}
+
+De manera que el espectro de frecuencias es equivalente a la transformada de Fourier y se define como sigue.
+
+\begin{mdframed}[style=MyFrame1]
+    \begin{defn}
+    \end{defn}
+    \cusTi{Espectro frecuencial}
+    \begin{equation*}
+        \fx[X]{\omega} = c_k \, T_0
+    \end{equation*}
+\end{mdframed}
 
 \begin{mdframed}[style=MyFrame1]
     \begin{defn}
@@ -817,13 +861,20 @@ Así, aplicando distributiva al término $e^{-\iu \, 2 \, \pi \, \kth \, t}$, es
     \end{equation*}
 \end{mdframed}
 
+Quedando el desarrollo en serie de la función dado por la antitransformada:
+\begin{align*}
+    \fx[x]{t} &= \sum_{\kth=-\infty}^\infty \left[ \frac{\omega_0}{2 \, \pi} \fx[X]{\omega} \right] \, e^{\iu \, \omega \, t} \text{ con } \omega_0 \to 0
+    \\[1ex]
+    &= \frac{1}{2 \, \pi} \sum_{\kth=-\infty}^\infty \fx[X]{\omega} \, e^{\iu \, \omega \, t} \, \omega_0 \text{ con } \omega_0 \to 0
+\end{align*}
+
 \begin{mdframed}[style=MyFrame1]
     \begin{defn}
-        \label{defn:FourierTrans}
+        \label{defn:FourierTransInv}
     \end{defn}
     \cusTi{Transformada de Fourier inversa}
     \begin{equation*}
-        \fx[x]{t} = \frac{1}{T_0} \int_{-\infty}^\infty \fx[X]{\omega} \, e^{\iu \, \omega \, t} \, \dif \omega
+        \fx[x]{t} = \frac{1}{2 \, \pi} \int_{-\infty}^\infty \fx[X]{\omega} \, e^{\iu \, \omega \, t} \, \dif \omega
     \end{equation*}
 \end{mdframed}
 
