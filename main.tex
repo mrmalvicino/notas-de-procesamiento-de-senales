@@ -857,7 +857,7 @@ De manera que el espectro de frecuencias es equivalente a la transformada de Fou
     \end{defn}
     \cusTi{Transformada de Fourier}
     \begin{equation*}
-        \fx[X]{\omega} = \int_{-\infty}^\infty \fx[x]{t} \, e^{-\iu \, \omega \, t} \, \dif t
+        \fx[X]{\omega} = \int_{-\infty}^\infty \fx[x]{t} \, e^{-\iu \, \omega \, t} \, \dif t = \fourier{x}
     \end{equation*}
 \end{mdframed}
 
@@ -874,7 +874,7 @@ Quedando el desarrollo en serie de la función dado por la antitransformada:
     \end{defn}
     \cusTi{Transformada de Fourier inversa}
     \begin{equation*}
-        \fx[x]{t} = \frac{1}{2 \, \pi} \int_{-\infty}^\infty \fx[X]{\omega} \, e^{\iu \, \omega \, t} \, \dif \omega
+        \fx[x]{t} = \frac{1}{2 \, \pi} \int_{-\infty}^\infty \fx[X]{\omega} \, e^{\iu \, \omega \, t} \, \dif \omega = \ffourier{X}
     \end{equation*}
 \end{mdframed}
 
